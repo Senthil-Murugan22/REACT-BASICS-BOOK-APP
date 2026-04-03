@@ -133,6 +133,10 @@ Displays:
 
 ---
 
-## 🙌 Author
+## 📞 Need Help?
+If you have any questions, feel free to reach out or open an issue. 😊
 
-Gajo
+---
+
+## 👨‍💻 Developed By
+This project is developed by Senthil Murugan A K. Feel free to connect with me!
